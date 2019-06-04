@@ -1,3 +1,7 @@
+// Elso proba, forras:
+// https://github.com/llk/scratchx/wiki#load-a-javascript-file
+// https://github.com/LLK/scratch-vm/blob/develop/docs/extensions.md
+
 // Core, Team, and Official extensions can `require` VM code:
 const ArgumentType = require('../../extension-support/argument-type');
 const BlockType = require('../../extension-support/block-type');
